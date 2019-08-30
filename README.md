@@ -7,7 +7,7 @@ For this homework assignment, you will create a class that is able to clean and 
 
 The official name of this homework is `TextFileStemmer`. This should be the name you use for your Eclipse Java project and the name you use when running the homework test script.
 
-See the [Homework Guides](https://usf-cs212-fall2019.github.io/guides/homework.html) for additional details on homework requirements and submission.
+See the [Homework Guides](https://usf-cs212-fall2019.github.io/guides/homework/) for additional details on homework requirements and submission.
 
 ## Hints ##
 
